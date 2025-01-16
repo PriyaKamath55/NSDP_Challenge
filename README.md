@@ -20,6 +20,11 @@ Files provided:
 2. NSDP_preprocess.ipynb
 3. NSDP Delay Report.pbix
 
+Output files:
+1. Average_Delay_By_Country.csv
+2. Regional_Averages.csv
+3. Outliers.csv
+
 Execution process:
 
 Python:
