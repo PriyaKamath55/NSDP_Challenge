@@ -94,6 +94,7 @@ Assumptions and decisions:
 2. For Z-score implementation and indetifying the outliers, the threshold is set to +/- 1.8 which is been adjusted and decided upon after trying the other vales for threshold like 2 and 3
 3. The averages are rounded to two decimal places
 
+ For further questions or analysis, please contact priya.kamath.bie@gmail.com
 
 
 
